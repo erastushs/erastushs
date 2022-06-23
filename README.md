@@ -20,3 +20,6 @@ My name Erastus Hendro Setiono but you can call me Erastus. I am a full-stack we
 
 | <a href="https://github.com/erastushs"><img align="center" src="https://github-readme-stats.vercel.app/api?username=erastushs&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs,prs" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erastushs&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
