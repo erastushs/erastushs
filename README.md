@@ -10,7 +10,7 @@ My name Erastus Hendro Setiono but you can call me Erastus. I am a full-stack we
 
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/erastushs/my-portfolio-website/blob/master/assets/img/logo/html.png" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/erastushs/my-portfolio-website/blob/master/assets/img/logo/css.png" alt="css3" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/erastushs/my-portfolio-website/blob/master/assets/img/logo/css.png" alt="css3" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/erastushs/my-portfolio-website/blob/master/assets/img/logo/js.png" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/erastushs/my-portfolio-website/blob/master/assets/img/logo/bootstrap.png" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/erastushs/my-portfolio-website/blob/master/assets/img/logo/tailwind.png" alt="tailwind" width="40" height="40"/> </a> 
