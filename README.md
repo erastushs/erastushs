@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<p align="center"><a href="https://erastushs.netlify.app"><img width="80%" alt="Hello World!" src="./Hello World.png" /></a></p>
+<p align="center"><a href="https://erastushs.netlify.app"><img width="80%" alt="Hello World!" src="./Hello-World.png" /></a></p>
 
 ## About Me
 
