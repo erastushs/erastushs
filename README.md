@@ -1,8 +1,8 @@
-<h1 align="center">
+<h2 align="center">
   Welcome to my profile!.👋
-</h1>
+</h2>
 <p align="center">
-  <a href="https://github.com/Drian-key/Drian-key"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Erastus;I+am+a+Frontend+Web+Developer;"></a>
+  <a href="https://github.com/Drian-key/Drian-key"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Erastus+HS;I+am+a+Frontend+Web+Developer;"></a>
 </p>
 <div align="center">
 
