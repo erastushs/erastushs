@@ -1,10 +1,10 @@
-<h2 align="center">
-  Welcome to my profile!.👋
-</h2>
-<p align="center">
+<div align="center">
+
+## Welcome to my profile!.👋
+
+<p >
   <a href="https://github.com/Drian-key/Drian-key"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Erastus+HS;I+am+a+Frontend+Web+Developer;"></a>
 </p>
-<div align="center">
 
 ## About Me
 
