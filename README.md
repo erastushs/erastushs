@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<p align="center"><a href="https://erastushs.netlify.app"><img width="80%" alt="Hello World!" src="./Hello World.png" /></a></p>
+<p align="center"><a href="https://erastushs.netlify.app"><img width="80%" alt="Hello World!" src="./Hello-World.png" /></a></p>
 
 ## About Me
 
@@ -23,3 +23,5 @@ My name Erastus Hendro Setiono but you can call me Erastus. I am a full-stack we
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
+
+![](https://komarev.com/ghpvc/?username=erastushs)
