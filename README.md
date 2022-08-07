@@ -3,7 +3,7 @@
 ## Welcome to my profile!.👋
 
 <p >
-  <a href="https://github.com/Drian-key/Drian-key"><img src="https://readme-typing-svg.herokuapp.com?color=%230077ff&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Erastus+HS;I+am+a+Frontend+Web+Developer;"></a>
+  <a href="https://github.com/erastushs"><img src="https://readme-typing-svg.herokuapp.com?color=%230077ff&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Erastus+HS;I+am+a+Frontend+Web+Developer;"></a>
 </p>
 
 ## About Me
