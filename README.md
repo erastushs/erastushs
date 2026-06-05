@@ -1,31 +1,101 @@
 <div align="center">
 
-## Welcome to my profile!.👋
+# 👋 Hey, I'm Erastus
 
-<p >
-  <a href="https://github.com/erastushs"><img src="https://readme-typing-svg.herokuapp.com?color=%230077ff&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Erastus+HS;I+am+a+Frontend+Web+Developer;"></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Open-Source+Builder;Creator+of+BloxAtlas;Building+Tools+for+Roblox+Communities" alt="Typing SVG" />
+
+<p>
+Building modern web applications, automation tools, and scalable platforms.
 </p>
 
-## About Me
-
-My name Erastus Hendro Setiono but you can call me Erastus. I am a front-end web developer who is very passionate about improving my coding skills and developing websites.
-
-## My Skills
-
-<p align="center"> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/erastushs/my-portfolio-website/blob/master/assets/img/logo/html.png" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/erastushs/my-portfolio-website/blob/master/assets/img/logo/css.png" alt="css3" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/erastushs/my-portfolio-website/blob/master/assets/img/logo/js.png" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/erastushs/my-portfolio-website/blob/master/assets/img/logo/bootstrap.png" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/erastushs/my-portfolio-website/blob/master/assets/img/logo/tailwind.png" alt="tailwind" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/erastushs/my-portfolio-website/blob/master/assets/img/logo/nodejs.png" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/erastushs/my-portfolio-website/blob/master/assets/img/logo/photoshop.png" alt="photoshop" width="40" height="40"/> </a> 
+<p>
+<a href="https://github.com/erastushs">
+<img src="https://komarev.com/ghpvc/?username=erastushs&label=Profile+Views&color=0ea5e9&style=for-the-badge" />
+</a>
 </p>
 
-| <a href="https://github.com/erastushs"><img align="center" src="https://github-readme-stats.vercel.app/api?username=erastushs&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs,prs" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erastushs&layout=compact&theme=tokyonight&hide_border=true" /></a> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+</div>
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<br />
+---
+
+## 🚀 About Me
+
+I'm **Erastus Hendro Setiono**, a passionate developer from Indonesia.
+
+I enjoy building products that solve real problems, from web platforms and automation systems to Roblox-related tools and analytics.
+
+Currently working on:
+
+- 🌍 BloxAtlas, Roblox game analytics platform
+- ⚡ LuxyHub, Roblox resources and community tools
+- ☁️ Supabase-powered applications
+- 🤖 AI integrations and automation workflows
+- 🚀 High-performance Next.js applications
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,bootstrap,supabase,git,github,vscode,photoshop" />
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/erastushs">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=erastushs&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+</a>
+
+<a href="https://github.com/erastushs">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erastushs&layout=compact&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+---
+
+## 🔥 Featured Projects
+
+### 🌍 BloxAtlas
+A Roblox analytics platform providing game insights, player statistics, and historical snapshots.
+
+### ⚡ LuxyHub
+A Roblox resource hub featuring scripts, utilities, and community-driven content.
+
+---
+
+## 📈 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=erastushs&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/erastushs">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for visiting! 🚀
+
+Building, learning, and improving every day.
 
 </div>
