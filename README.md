@@ -1,11 +1,11 @@
 <div align="center">
 
-# 👋 Hey, I'm Erastus
+# 👋 Hi, I'm Erastus
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Building+Scalable+Web+Platforms;Creator+of+BloxAtlas;Open-Source+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Backend+%26+Cloud+Engineer;Building+Scalable+Platforms;Automation+Enthusiast" alt="Typing SVG" />
 
 <p>
-Building modern web applications, automation tools, and scalable platforms.
+I build scalable web platforms, backend systems, and automation tools with a focus on performance, reliability, and clean architecture.
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=erastushs&label=Profile+Views&color=0ea5e9&style=for-the-badge" />
@@ -14,71 +14,111 @@ Building modern web applications, automation tools, and scalable platforms.
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I'm **Erastus Hendro Setiono**, a developer passionate about building products that solve real-world problems.
+I'm a full-stack developer who enjoys solving complex engineering problems and turning ideas into production-ready products.
 
-My interests include:
+My primary interests include:
 
-- 🌐 Modern Web Development
-- ⚡ High Performance Applications
-- 🤖 AI Integrations & Automation
-- ☁️ Cloud Infrastructure
-- 📊 Data Analytics Platforms
-- 🎮 Roblox Ecosystem Tools
+* 🌐 Full-Stack Web Development
+* ⚙️ Backend Architecture
+* ☁️ Cloud Infrastructure
+* 🤖 AI Integrations
+* 📊 Data Platforms & Analytics
+* 🚀 Performance Optimization
+* 🔄 Automation & Developer Tools
 
-I enjoy turning ideas into polished products that are fast, scalable, and user-friendly.
+I enjoy designing systems that are scalable, maintainable, and easy to evolve over time.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,bootstrap,supabase,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,bootstrap,supabase,postgres,docker,git,github,vscode" />
 
 </div>
 
----
+### Languages
 
-## 🌟 Featured Projects
+* TypeScript
+* JavaScript
+* SQL
 
-### 🌍 BloxAtlas
+### Backend
 
-A Roblox analytics platform that tracks game statistics, player activity, and historical snapshots.
+* Node.js
+* Next.js
+* REST APIs
+* PostgreSQL
+* Supabase
+* Redis / Valkey
 
-**Highlights**
-- Large-scale game tracking
-- Automated snapshot collection
-- SEO-optimized pages
-- Supabase-powered backend
-- Next.js architecture
+### Infrastructure
 
----
-
-### ⚡ LuxyHub
-
-A Roblox resource platform providing scripts, tools, and community-focused content.
-
-**Highlights**
-- Modern responsive UI
-- Fast content delivery
-- Community resources
-- Scalable infrastructure
+* Docker
+* Linux
+* Nginx
+* Cloudflare
+* VPS Deployment
+* GitHub Actions
 
 ---
 
-## 🎯 Current Focus
+## Featured Projects
 
-- Expanding BloxAtlas data coverage
-- Building automation workflows
-- Improving search and discovery systems
-- Exploring AI-powered tools
-- Contributing to open-source projects
+### BloxAtlas
+
+A data platform for the Roblox ecosystem focused on analytics, historical data, and large-scale game insights.
+
+Core ideas:
+
+* Analytics
+* Historical snapshots
+* Search & discovery
+* Automated data collection
+* Modern web architecture
 
 ---
 
-## 📫 Connect
+### LuxyHub
+
+A modern Roblox resource platform designed around performance, reliability, and scalable backend services.
+
+Core ideas:
+
+* Content delivery
+* Authentication systems
+* Backend APIs
+* Automation
+* Scalable infrastructure
+
+---
+
+## What I Enjoy Building
+
+* Large-scale web applications
+* Internal developer tools
+* API services
+* Automation pipelines
+* Analytics platforms
+* Cloud-native systems
+* AI-powered workflows
+
+---
+
+## Currently Exploring
+
+* AI-assisted development
+* Distributed systems
+* High-performance backend design
+* Data engineering
+* Open-source technologies
+
+---
+
+## Connect
 
 <div align="center">
 
@@ -92,8 +132,6 @@ A Roblox resource platform providing scripts, tools, and community-focused conte
 
 <div align="center">
 
-### 🚀 Always Building Something New
-
-Thanks for visiting my profile.
+> Build something useful. Keep improving. Repeat.
 
 </div>
