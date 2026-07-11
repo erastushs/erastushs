@@ -2,142 +2,167 @@
 
 # 👋 Hi, I'm Erastus
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Backend+%26+Cloud+Engineer;Building+Scalable+Platforms;Automation+Enthusiast" alt="Typing SVG" />
+## 🤖 Vibe Coder Enjoyer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1200&color=7C83FD&center=true&vCenter=true&width=900&lines=Building+production-ready+software.;AI-assisted+development.;Backend+%7C+Automation+%7C+Cloud.;Build+it.+Ship+it.+Improve+it." />
 
 <p>
-I build scalable web platforms, backend systems, and automation tools with a focus on performance, reliability, and clean architecture.
+
+Building production-ready platforms with AI as a development partner, not a replacement.
+
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=erastushs&label=Profile+Views&color=0ea5e9&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=erastushs&label=Profile+Views&color=7c83fd&style=for-the-badge"/>
 
 </div>
 
 ---
 
-## About Me
+# 🚀 About Me
 
-I'm a full-stack developer who enjoys solving complex engineering problems and turning ideas into production-ready products.
+I'm a developer who enjoys building complete products from idea to production.
 
-My primary interests include:
+Most of my projects start as side ideas and grow into fully featured platforms with dashboards, APIs, automation, observability, cloud infrastructure, and AI-assisted workflows.
 
-* 🌐 Full-Stack Web Development
-* ⚙️ Backend Architecture
-* ☁️ Cloud Infrastructure
-* 🤖 AI Integrations
-* 📊 Data Platforms & Analytics
-* 🚀 Performance Optimization
-* 🔄 Automation & Developer Tools
+I don't just enjoy writing code.
 
-I enjoy designing systems that are scalable, maintainable, and easy to evolve over time.
+I enjoy designing systems that are reliable, maintainable, scalable, and pleasant to work on.
 
 ---
 
-## Tech Stack
+# 💜 Current Focus
+
+- 🤖 HoakBot
+- 🌍 BloxAtlas
+- ⚡ LuxyHub
+- 🧠 AI-assisted software engineering
+- ☁️ Backend & Cloud Infrastructure
+- 📊 Observability & Developer Tools
+
+---
+
+# 🛠 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,bootstrap,supabase,postgres,docker,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,supabase,postgres,docker,linux,nginx,cloudflare,git,github,vscode" />
 
 </div>
 
-### Languages
+### I enjoy working with
 
-* TypeScript
-* JavaScript
-* SQL
-
-### Backend
-
-* Node.js
-* Next.js
-* REST APIs
-* PostgreSQL
-* Supabase
-* Redis / Valkey
-
-### Infrastructure
-
-* Docker
-* Linux
-* Nginx
-* Cloudflare
-* VPS Deployment
-* GitHub Actions
+- TypeScript
+- Node.js
+- Next.js
+- PostgreSQL
+- Supabase
+- Redis / Valkey
+- Docker
+- Linux
+- Nginx
+- Cloudflare
+- GitHub Actions
 
 ---
 
-## Featured Projects
+# 🌟 Featured Projects
 
-### BloxAtlas
+## 🤖 HoakBot
 
-A data platform for the Roblox ecosystem focused on analytics, historical data, and large-scale game insights.
+A production-ready Discord bot built around a modern backend architecture.
 
-Core ideas:
+Features include:
 
-* Analytics
-* Historical snapshots
-* Search & discovery
-* Automated data collection
-* Modern web architecture
-
----
-
-### LuxyHub
-
-A modern Roblox resource platform designed around performance, reliability, and scalable backend services.
-
-Core ideas:
-
-* Content delivery
-* Authentication systems
-* Backend APIs
-* Automation
-* Scalable infrastructure
+- Dashboard
+- OAuth Authentication
+- Live Logs
+- Voice Automation
+- Scheduler
+- Moderation
+- Observability
+- REST API
+- Production deployment
 
 ---
 
-## What I Enjoy Building
+## 🌍 BloxAtlas
 
-* Large-scale web applications
-* Internal developer tools
-* API services
-* Automation pipelines
-* Analytics platforms
-* Cloud-native systems
-* AI-powered workflows
+A Roblox analytics platform focused on large-scale data collection, historical snapshots, search, and automation.
 
----
+Highlights
 
-## Currently Exploring
-
-* AI-assisted development
-* Distributed systems
-* High-performance backend design
-* Data engineering
-* Open-source technologies
+- Historical datasets
+- Analytics
+- Search
+- Automation
+- Backend APIs
 
 ---
 
-## Connect
+## ⚡ LuxyHub
+
+A modern Roblox platform built around authentication, licensing, automation, and scalable backend services.
+
+Highlights
+
+- License Platform
+- Authentication
+- Analytics
+- Event Platform
+- Cloud Deployment
+
+---
+
+# ❤️ What I Enjoy Building
+
+- Production-ready software
+- Backend services
+- Internal developer tools
+- Automation
+- Cloud infrastructure
+- Dashboards
+- REST APIs
+- AI-powered workflows
+
+---
+
+# 🌱 Currently Exploring
+
+- AI-assisted engineering
+- Distributed systems
+- High-performance backend design
+- Observability
+- Data engineering
+- Open-source technologies
+
+---
+
+# 📈 GitHub Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=erastushs&theme=tokyo-night&hide_border=true"/>
+
+<img width="100%" src="https://streak-stats.demolab.com?user=erastushs&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🤝 Connect
 
 <div align="center">
 
 <a href="https://github.com/erastushs">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-
 
 </div>
 
 ---
 
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=erastushs&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erastushs&layout=compact&theme=tokyonight&hide_border=true"/>
-
-
-> Build something useful. Keep improving. Repeat.
+> 🤖 AI is my copilot. Architecture is still my responsibility.
 
 </div>
